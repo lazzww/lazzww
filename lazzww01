@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/INDOSIAR.jpg" group-title="TV", INDOSIAR
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/INDOSIAR.jpg" group-title="Indonesia", INDOSIAR
 
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
@@ -9,23 +9,23 @@ http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 http://rr2.dens.tv/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNN.jpg" group-title="TV", CNN Indonesia
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNN.jpg" group-title="Indonesia", CNN Indonesia
 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNBC.jpg" group-title="TV", CNBC Indonesia
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNBC.jpg" group-title="Indonesia", CNBC Indonesia
 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TRANSTV.jpg" group-title="TV",TRANSTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TRANSTV.jpg" group-title="Indonesia",TRANSTV
 
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TRANS7.jpg" group-title="TV",TRANS 7
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TRANS7.jpg" group-title="Indonesia",TRANS 7
 
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="TV", TVRI
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="Indonesia", TVRI
 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
@@ -33,84 +33,84 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="TV", TVRI SPORT
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TVRI.jpg" group-title="Indonesia", TVRI SPORT
 
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="TV", ANTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="Indonesia", ANTV
 
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="TV", ANTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="Indonesia", ANTV
 
 http://rr2.dens.tv/s/s07/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="TV", ANTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/ANTV.jpg" group-title="Indonesia", ANTV
 
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/METROTV.jpg" group-title="TV", METROTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/METROTV.jpg" group-title="Indonesia", METROTV
 
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/METROTV.jpg" group-title="TV", METRO GLOBE NETWORK
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/METROTV.jpg" group-title="Indonesia", METRO GLOBE NETWORK
 
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="TV",MUSICA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Indonesia",MUSICA
 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RCTI.jpg" group-title="TV", RCTI - AUTO
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RCTI.jpg" group-title="Indonesia", RCTI - AUTO
 
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", KOMPASTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Indonesia", KOMPASTV
 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", tvOne
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Indonesia", tvOne
 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RTV.jpg" group-title="TV", RTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RTV.jpg" group-title="Indonesia", RTV
 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
-#EXTINF:-1 group-title="TV",RTV
+#EXTINF:-1 group-title="Indonesia",RTV
 
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", RANS
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Indonesia", RANS
 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", BERITA SATU
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Indonesia", BERITA SATU
 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", BERITA SATU WORLD
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Indonesia", BERITA SATU WORLD
 
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", Jakarta Globe
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Indonesia", Jakarta Globe
 
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", JAKTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Indonesia", JAKTV
 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554476_ico.png?ts=1654802291" group-title="IPTV",JTV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554476_ico.png?ts=1654802291" group-title="Indonesia",JTV
 
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20910317_ico.png?ts=1655078832" group-title="TV",MAGNA CHANNEL
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20910317_ico.png?ts=1655078832" group-title="Indonesia",MAGNA CHANNEL
 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="TV",IN WILD
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="Indonesia",IN WILD
 
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
