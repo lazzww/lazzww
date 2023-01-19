@@ -1685,7 +1685,7 @@ INDONESIA
 
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",SCTV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/zDK33y9S/552.png" group-title="INDONESIA",SCTV
 
 http://rr2.dens.tv/s/s03/index.m3u8
 
@@ -1758,7 +1758,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
-#EXTINF:-1 group-title="Indonesia",RTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RTV.jpg"group-title="Indonesia",RTV
 
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
